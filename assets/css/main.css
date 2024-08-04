@@ -3485,6 +3485,7 @@ input, select, textarea {
 
 		#banner h1, #banner h2, #banner h3, #banner h4, #banner h5, #banner h6 {
 			color: #ffffff;
+			font-weight: 400;
 		}
 
 		#banner blockquote {
@@ -3948,7 +3949,7 @@ input, select, textarea {
 						}
 
 				#nav > ul > li.current a, #nav > ul > li.current span {
-					background-color: rgba(255, 255, 255, 0.05);
+					background-color: rgb(0 0 0 / 46%);
 				}
 
 				#nav > ul > li.active a, #nav > ul > li.active span {
